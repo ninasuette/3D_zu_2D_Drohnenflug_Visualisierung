@@ -1,0 +1,2 @@
+# 3D_zu_2D_Drohnenflug_Visualisierung
+Bachelorprojekt und Bachelorarbeit des Studiums Informationstechnik - Wirtschaftsingenieurwesen
